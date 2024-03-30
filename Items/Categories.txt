@@ -1,0 +1,12 @@
+Dagger
+Holy Staff
+Axe
+Cloth Armor
+Cloth Helmet
+Cloth Shoes
+Leather Armor
+Leather Helmet
+Leather Shoes
+Plate Armor
+Plate Helmet
+Plate Shoes
