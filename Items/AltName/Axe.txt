@@ -1,7 +1,7 @@
-Battleaxe MAIN_AXE
-Greataxe 2H_AXE
-Halberd 2H_HALBERD
-Carrioncaller 2H_HALBERD_MORGANA
-Infernal Scythe 2H_SCYTHE_HELL
-Bear Paws 2H_DUALAXE_KEEPER
-Realmbreaker 2H_AXE_AVALON
+Battleaxe: MAIN_AXE
+Greataxe: 2H_AXE
+Halberd: 2H_HALBERD
+Carrioncaller: 2H_HALBERD_MORGANA
+Infernal: Scythe 2H_SCYTHE_HELL
+Bear Paws: 2H_DUALAXE_KEEPER
+Realmbreaker: 2H_AXE_AVALON

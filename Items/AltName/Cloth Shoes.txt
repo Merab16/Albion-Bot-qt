@@ -1,9 +1,9 @@
-Scholar Sandals SHOES_CLOTH_SET1
-Cleric Sandals SHOES_CLOTH_SET2
-Mage Sandals SHOES_CLOTH_SET3
-Druid Sandals SHOES_CLOTH_KEEPER
-Fiend Sandals SHOES_CLOTH_HELL
-Cultist Sandals SHOES_CLOTH_MORGANA
-Feyscale Sandals SHOES_CLOTH_FEY
-Sandals of Purity SHOES_CLOTH_AVALON
-Royal Sandals SHOES_CLOTH_ROYAL
+Scholar Sandals: SHOES_CLOTH_SET1
+Cleric Sandals: SHOES_CLOTH_SET2
+Mage Sandals: SHOES_CLOTH_SET3
+Druid Sandals: SHOES_CLOTH_KEEPER
+Fiend Sandals: SHOES_CLOTH_HELL
+Cultist Sandals: SHOES_CLOTH_MORGANA
+Feyscale Sandals: SHOES_CLOTH_FEY
+Sandals of Purity: SHOES_CLOTH_AVALON
+Royal Sandals: SHOES_CLOTH_ROYAL
